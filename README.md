@@ -1,5 +1,5 @@
 
-### Eae! Meu nome é Felipe Lourenco, sou dever e amante da tecnologia ✌️
+### Eae! Meu nome é Felipe Lourenco, sou curioso e amante da tecnologia ✌️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felps_0310?igshid=MzNlNGNkZWQ4Mg==) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipelourenco0310@usp.br) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lourenco-abb39a238) 
 
